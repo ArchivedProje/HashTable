@@ -1,5 +1,5 @@
 # HashTable
-## Simple hash table implementation to show the main idea. Something around std::unordered_multimap.
+## Simple hash table implementation to show the main idea. Something around [std::unordered_multimap](https://en.cppreference.com/w/cpp/container/unordered_multimap).
 ```cpp
 #include <vector>
 #include <list>
